@@ -66,6 +66,6 @@ Network, Asset Management, serta Drone Mapping & Surveying.
 
 ## 📩 Kontak
 
--   Email: s.cipto@ptsi.co.id
+-   Email: suhendro.cipto@gmail.com
 -   Telepon: 0852-6285-7082
 -   Lokasi: Medan, Sumatra Utara
